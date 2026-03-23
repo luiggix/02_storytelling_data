@@ -3,7 +3,7 @@ title: "Storytelling"
 title-slide-attributes:
   data-background-image: ./figures/HackODS_B-N-G-2.png
   data-background-size: cover
-  data-background-opacity: "0.250"
+  data-background-opacity: "0.25f0"
 subtitle: "with data"
 author: "Luis Miguel de la Cruz Salas"
 institute: "Depto. de Recursos Naturales, IGEF-UNAM"
@@ -54,7 +54,7 @@ format:
 
 ## *Visual Analytics*.
 
-> <font color="Khaki" style="font-size:35px;">*Visual analytics* (análisis visual) es un campo multidisciplinario de la ciencia y la tecnología que surgió de la **visualización de la información** (*InfoViz*) y la **visualización científica** (*Visualization*). Se centra en cómo las interfaces visuales interactivas pueden facilitar la exploración de datos complejos, identificar patrones y promover el razonamiento analítico para obtener información útil. </font>
+> <font color="Khaki" style="font-size:35px;">*Visual analytics* (análisis visual) es un campo multidisciplinario de la ciencia y la tecnología que surgió de la **visualización científica** (*Visualization*) y la **visualización de la información** (*InfoViz*). Se centra en cómo las interfaces visuales interactivas pueden facilitar la exploración de datos complejos, identificar patrones y promover el razonamiento analítico para obtener información útil. </font>
 
 [IEEE Vis 2026](https://ieeevis.org/year/2026/welcome/): Visualization & Visual Analytics.
 
@@ -63,16 +63,16 @@ format:
 <font style="font-size:35px;">
 
 * Convertir la información en conocimientos prácticos.
-* Es importante comprender las necesidades de información del grupo de usuarios objetivo.
+* Comprender las necesidades de información del grupo de usuarios objetivo.
 * Determinar qué tipo de datos son los necesarios y qué técnicas de visualización se deben usar.
-* Se utilizan parámetros visuales (color, contraste, distancia, tamaño, entre otros) para crear una jerarquía visual adecuada y una ruta visual óptima a través de la información.
+* Utilizar parámetros visuales: color, contraste, distancia, tamaño, ..., para crear una jerarquía visual adecuada y una ruta visual óptima a través de la información.
 </font>
 
 ## *Visual Analytics and Storytelling*.
 
 ::: {.columns}
 ::: {.column .fragment}
-> <font color="Khaki" style="font-size:35px;">There’s always room for a story that can transport people to another place. J. K. Rowling.</font>
+> <font color="Khaki" style="font-size:35px;">*There’s always room for a story that can transport people to another place*.</font> J. K. Rowling.
 
 <font style="font-size:35px;">
 
@@ -177,16 +177,16 @@ Los conceptos y figuras de esta sección provienen de (Cairo, 2013).
 
 * Son procesadas en ~0.5 s por nuestro sistema visual.
 
-> <font color="Khaki" style="font-size:35px;">El mayor valor de una imagen se nota cuando nos obliga a fijarnos en lo que nunca esperábamos ver, [John Tukey](https://es.wikipedia.org/wiki/John_W._Tukey).</font>
+> <font color="Khaki" style="font-size:35px;">*El mayor valor de una imagen se nota cuando nos obliga a fijarnos en lo que nunca esperábamos ver*, [John Tukey](https://es.wikipedia.org/wiki/John_W._Tukey).</font>
 
 ## ¿Cuáles son?
 
-Colin Ware (2013) define las cuatro *preattentive* propiedades visuales:
+Colin Ware (2013) define cuatro familias de *preattentive features*:
 
-<font style="font-size:35px;">
+<font style="font-size:33px;">
 
 * <font color="LimeGreen">**Color**</font>. RGB (Red, Green, Blue), sistema aditivo, que usa una estructura hexadecimal <font color="#F453A2">#F453A2</font>. [HTML colors](https://htmlcolorcodes.com/).
-* <font color="LimeGreen">**Forma**</font>. Colinealidad, curvatura, longitud, amplitud, ancho, marcadores, cantidad, patrón, tamaño, agrupamiento, orientación ...
+* <font color="LimeGreen">**Forma**</font>. Colinealidad, curvatura, longitud, amplitud, ancho, marcadores, cantidad, patrón, tamaño, agrupamiento, orientación, ...
 * <font color="LimeGreen">**Movimiento**</font>. Parpadeo y movimiento espacial.
 * <font color="LimeGreen">**Posicionamiento espacial**</font>. La forma más efectiva es en 2D.
 </font>
@@ -227,7 +227,7 @@ Colin Ware (2013) define las cuatro *preattentive* propiedades visuales:
     - Continuidad.
     - Agrupamiento. 
     - Cierre.
-    - Familiridad.
+    - Familiaridad.
 
 </font>
 
@@ -261,7 +261,9 @@ La clasificación CM (Clevaland & McGill, 1984) es un método para representar d
 
 ![](./figures/ciclo_stroytelling.png)
 
+:::{.r-stack}
 (Nussbaumer, 2025) y (Nussbaumer, 2019).
+:::
 
 ##  Referencias.
 
