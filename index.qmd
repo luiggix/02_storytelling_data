@@ -3,7 +3,7 @@ title: "Storytelling"
 title-slide-attributes:
   data-background-image: ./figures/HackODS_B-N-G-2.png
   data-background-size: cover
-  data-background-opacity: "0.25f0"
+  data-background-opacity: "0.250"
 subtitle: "with data"
 author: "Luis Miguel de la Cruz Salas"
 institute: "Depto. de Recursos Naturales, IGEF-UNAM"
@@ -66,6 +66,7 @@ format:
 * Comprender las necesidades de información del grupo de usuarios objetivo.
 * Determinar qué tipo de datos son los necesarios y qué técnicas de visualización se deben usar.
 * Utilizar parámetros visuales: color, contraste, distancia, tamaño, ..., para crear una jerarquía visual adecuada y una ruta visual óptima a través de la información.
+
 </font>
 
 ## *Visual Analytics and Storytelling*.
