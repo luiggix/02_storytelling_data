@@ -1,0 +1,12 @@
+project:
+  type: "default"
+  output-dir: docs
+
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    code-fold: false
+
+
+
